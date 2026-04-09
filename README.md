@@ -1,5 +1,4 @@
-![pial_uddin_github_banner_v2](https://github.com/user-attachments/assets/91ba0e80-c6c8-4f0b-80cf-a7b748e49b09)
-
+![github](https://github.com/user-attachments/assets/189b9bae-20d1-458e-ad32-3210bc2fe47e)
 
 
 
