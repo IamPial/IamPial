@@ -3,8 +3,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=04F73AEB&center=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Pial+Uddin;A+passionate+Frontend+Developer+;+Future+Full-Stack+Engineer;Learning+today%2C+building+for+tomorrow)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=04F73AEB&center=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+This+is+Pial+Uddin;A+passionate+Frontend+Developer++%7C+Future+Full-Stack+Engineer;+Nice+to+meet+You%F0%9F%99%82)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on **online-apps-store**
