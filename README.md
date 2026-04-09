@@ -89,23 +89,20 @@
 
 
 
-const data = 
-{
-  "name": "Pial Uddin",
-  "username": "IamPial",
-  "pronouns": "he/him",
-  "role": "Frontend Developer",
-  "goal": "Future Full-Stack Engineer",
-  "location": "Bangladesh 🇧🇩",
-  "currently_learning": ["React.js", "Next.js"],
-  "tech_stack": {
-    "frontend": ["HTML5", "CSS3", "JavaScript", "React", "Tailwind CSS", "DaisyUI", "Bootstrap"],
-    "backend": ["Node.js", "Express.js"],
-    "database": ["MongoDB"],
-    "tools": ["Git", "GitHub", "Figma", "Photoshop"]
-  },
-  "ask_me_about": ["ReactJS", "JavaScript", "Frontend Development"],
-  "contact": "pialname394@gmail.com",
-  "fun_fact": "I am an introvert 😄",
-  "motto": "Learning today, building for tomorrow 🚀"
+```javascript
+const pialUddin = {
+  pronouns: "he/him",
+  location: "Bangladesh 🇧🇩",
+  role: "Frontend Developer",
+  goal: "Future Full-Stack Engineer 🚀",
+  code: ["HTML5", "CSS3", "JavaScript", "React", "Tailwind CSS"],
+  tools: ["Next.js", "Bootstrap", "DaisyUI", "Git", "GitHub", "Figma", "Photoshop"],
+  backend: ["Node.js", "Express.js"],
+  database: ["MongoDB"],
+  currently_learning: ["React.js", "Next.js"],
+  ask_me_about: ["ReactJS", "JavaScript", "Frontend Development"],
+  contact: "pialname394@gmail.com",
+  fun_fact: "I am an introvert 😄",
+  motto: "Learning today, building for tomorrow 🚀"
 }
+```
