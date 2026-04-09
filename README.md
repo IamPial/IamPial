@@ -86,3 +86,26 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iampial&" alt="iampial" /></p>
+
+
+
+const data = 
+{
+  "name": "Pial Uddin",
+  "username": "IamPial",
+  "pronouns": "he/him",
+  "role": "Frontend Developer",
+  "goal": "Future Full-Stack Engineer",
+  "location": "Bangladesh 🇧🇩",
+  "currently_learning": ["React.js", "Next.js"],
+  "tech_stack": {
+    "frontend": ["HTML5", "CSS3", "JavaScript", "React", "Tailwind CSS", "DaisyUI", "Bootstrap"],
+    "backend": ["Node.js", "Express.js"],
+    "database": ["MongoDB"],
+    "tools": ["Git", "GitHub", "Figma", "Photoshop"]
+  },
+  "ask_me_about": ["ReactJS", "JavaScript", "Frontend Development"],
+  "contact": "pialname394@gmail.com",
+  "fun_fact": "I am an introvert 😄",
+  "motto": "Learning today, building for tomorrow 🚀"
+}
