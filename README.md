@@ -87,6 +87,36 @@
   </a>
 </p>
 
+
+
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
+### 🧑‍💻 Talking about Personal Stuff:
+
+- 🔭 I'm currently working on **[online-apps-store](https://github.com/IamPial/online-apps-store)**
+- 🌱 I'm currently learning **React.js, Next.js**
+- 💬 Ask me about **ReactJS, JavaScript, HTML, CSS, Tailwind CSS, DaisyUI, Git, GitHub**
+- 📫 Reach me out: **pialname394@gmail.com**
+
+###  My Absolute Favorites:
+
+- 💡 I love building clean and responsive UI
+- 🎯 Writing readable and maintainable code
+- 🌐 Exploring modern frontend technologies
+
+    </td>
+    <td valign="top" width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
+
+
+
   
 
 
