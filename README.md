@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I am an introvert**
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://app.daily.dev/pial_dev" target="_blank">
     <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" />
@@ -31,6 +31,9 @@
   </a>
   <a href="https://hashnode.com/@dev-pial" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+  <a href="mailto:pialname394@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
