@@ -115,7 +115,9 @@
 
 
 
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,git,github,figma,ps&theme=dark" />
+</p>
 
 
 
