@@ -11,15 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=04F73AEB&center=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+This+is+Pial+Uddin;A+passionate+Frontend+Developer++%7C+Future+Full-Stack+Engineer;+Nice+to+meet+You%F0%9F%99%82)](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently working on **online-apps-store**
 
-- 🌱 I’m currently learning **React Js, Next.Js**
-
-- 💬 Ask me about **ReactJs, JavaScript, HTML,CSS, Tailwindcss, daisyUI, Git , GitHub**
-
-- 📫 How to reach me **pialname394@gmail.com**
-
-- ⚡ Fun fact **I am an introvert**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -96,7 +88,7 @@
 
 ### 🧑‍💻 Talking about Personal Stuff:
 
-- 🔭 I'm currently working on **[online-apps-store](https://github.com/IamPial/online-apps-store)**
+- 🔭 I'm currently working on **Exploring FrontEnd Development & Learning**
 - 🌱 I'm currently learning **React.js, Next.js**
 - 💬 Ask me about **ReactJS, JavaScript, HTML, CSS, Tailwind CSS, DaisyUI, Git, GitHub**
 - 📫 Reach me out: **pialname394@gmail.com**
