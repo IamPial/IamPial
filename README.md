@@ -3,8 +3,7 @@
 
 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=04F73AEB&center=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Pial+Uddin;A+passionate+Frontend+Developer+;+Future+Full-Stack+Engineer;Learning+today%2C+building+for+tomorrow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=04F73AEB&center=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Pial+Uddin;A+passionate+Frontend+Developer+;+Future+Full-Stack+Engineer;Learning+today%2C+building+for+tomorrow)](https://git.io/typing-svg)
 
 
 
@@ -114,7 +113,7 @@
     </div>
 
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iampial&show_icons=true&locale=en&layout=compact" alt="iampial" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iampial&show_icons=true&locale=en" alt="iampial" /></p>
 
