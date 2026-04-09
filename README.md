@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Pial Uddin</h1>
-<h3 align="center">Frontend Developer | Future Full-Stack Engineer</h3>
+![pial_uddin_github_banner_v2](https://github.com/user-attachments/assets/91ba0e80-c6c8-4f0b-80cf-a7b748e49b09)
+
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=04F73AEB&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Pial+Uddin;A+passionate+Frontend+Developer+;+Future+Full-Stack+Engineer;Learning+today%2C+building+for+tomorrow)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **online-apps-store**
 
