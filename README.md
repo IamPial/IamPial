@@ -90,7 +90,7 @@ const pialUddin = {
   pronouns: "he/him",
   location: "Bangladesh 🇧🇩",
   role: "Frontend Developer",
-  goal: "Future Full-Stack Engineer 🚀",
+  goal: "Future Full-Stack Engineer ",
   code: ["HTML5", "CSS3", "JavaScript", "React", "Tailwind CSS"],
   tools: ["Next.js", "Bootstrap", "DaisyUI", "Git", "GitHub", "Figma", "Photoshop"],
   backend: ["Node.js", "Express.js"],
@@ -98,7 +98,7 @@ const pialUddin = {
   currently_learning: ["React.js", "Next.js"],
   ask_me_about: ["ReactJS", "JavaScript", "Frontend Development"],
   contact: "pialname394@gmail.com",
-  fun_fact: "I am an introvert 😄",
-  motto: "Learning today, building for tomorrow 🚀"
+  fun_fact: "I am an introvert ",
+  motto: "Learning today, building for tomorrow "
 }
 ```
