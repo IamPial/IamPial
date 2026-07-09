@@ -23,8 +23,8 @@
 ### 🧑‍💻 Talking about Personal Stuff:
 
 - 🔭 I'm currently working on **Exploring FrontEnd Development & Learning**
-- 🌱 I'm currently learning **React.js, Next.js**
-- 💬 Ask me about **ReactJS, JavaScript, HTML, CSS, Tailwind CSS, DaisyUI, Git, GitHub**
+- 🌱 I'm currently learning **TypeScript, Next.js**
+- 💬 Ask me about **ReactJS, JavaScript, NextJS**
 - 📫 Reach me out: **pialname394@gmail.com**
 
 ###  My Absolute Favorites:
