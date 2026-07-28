@@ -83,7 +83,9 @@
 
 ## 📊 GitHub Statistics
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iampial&" alt="iampial" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=iampial&theme=dark" alt="iampial" />
+</p>
 
 
 
