@@ -84,7 +84,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=IamPial&theme=dark" alt="IamPial" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamPial&layout=compact&theme=dark" alt="IamPial" />
 </p>
 
 
