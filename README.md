@@ -84,7 +84,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamPial&layout=compact&theme=dark&v=99" alt="IamPial" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamPial&theme=dracula" alt="GitHub Stats" />
 </p>
 
 
