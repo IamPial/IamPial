@@ -84,7 +84,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=iampial&theme=dark" alt="iampial" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=iampial" alt="iampial" />
 </p>
 
 
