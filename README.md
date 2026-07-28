@@ -83,12 +83,7 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.demolab.com/?user=IamPial&theme=dark&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iampial&" alt="iampial" /></p>
 
 
 
